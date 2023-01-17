@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\bin\Debug\netstandard2.0\fondo9Sa3adaML.Model.deps.json
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\bin\Debug\netstandard2.0\fondo9Sa3adaML.Model.dll
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\bin\Debug\netstandard2.0\fondo9Sa3adaML.Model.pdb
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.AssemblyInfo.cs
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.dll
+C:\Users\HP\Downloads\projet\fondo9Sa3adaML.Model\obj\Debug\netstandard2.0\fondo9Sa3adaML.Model.pdb
